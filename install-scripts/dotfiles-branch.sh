@@ -1,5 +1,5 @@
 #!/bin/bash
-# 💫 https://github.com/JaKooLit 💫 #
+# 💫 https://github.com/LinuxBeginnings 💫 #
 # Hyprland-Dots to download from main #
 
 #specific branch or release
@@ -30,7 +30,7 @@ if [ -d Hyprland-Dots-Ubuntu-24.04 ]; then
     chmod +x copy.sh
     ./copy.sh
 else
-    if git clone --depth=1 https://github.com/JaKooLit/Hyprland-Dots Hyprland-Dots-Ubuntu-24.04; then
+    if git clone --depth=1 https://github.com/LinuxBeginnings/Hyprland-Dots Hyprland-Dots-Ubuntu-24.04; then
         cd Hyprland-Dots-Ubuntu-24.04 || exit 1
         chmod +x copy.sh
         ./copy.sh
