@@ -105,6 +105,7 @@ dependencies=(
     wayland-protocols
     xdg-desktop-portal
     xwayland
+    hyprland-guiutils
     bc
 )
 
