@@ -97,6 +97,7 @@ dependencies=(
     python3-yaml
     python3-pyquery
     qt6-base-dev
+    rsync
     scdoc
     seatd
     spirv-tools

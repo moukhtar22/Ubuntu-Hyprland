@@ -1,5 +1,11 @@
 ## CHANGELOGS
 
+## March 2026
+
+- PPA Hyprland updted to v0.54.2
+- Added `rsync` check
+- Added `rofi-wayland` check for ubuntu v24.04 repo not uddate yet to v2.00
+
 ## December 2025
 
 - Ubuntu 24.04 supports Hyprland v0.53.1
